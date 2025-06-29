@@ -1,0 +1,3 @@
+Cpp is very fast language compare to any other programming language,
+gives more control over hardware
+used widely for low-level coding and competitive programming.
